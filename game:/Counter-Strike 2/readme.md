@@ -12,6 +12,10 @@
 # Market.index:
 - https://gamezod.com
 - https://skinswap.com
+- https://buff.163.com
+- https://skinport.com
+- https://csfloat.com
+- https://buff.market/market/all
 
 # sch:
 - https://www.google.com/search?q=cs2+trading+sites
